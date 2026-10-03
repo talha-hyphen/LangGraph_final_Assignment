@@ -1,0 +1,4 @@
+
+.env
+gcp-oauth.keys.json
+__pycache__/
